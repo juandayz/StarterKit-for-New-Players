@@ -19,7 +19,7 @@ if (PVCDZ_plr_Login2 select 3) then
 {
 
 _text = "Claim My Box";
-s_player_box = player addAction [format["%1",_text], "dayz_code\external\player_startkit.sqf"];
+s_player_box = player addAction [format["%1",_text], "starterkit\player_startkit.sqf"];
 };	
 ```
 
