@@ -15,7 +15,7 @@ Allow players  (new players on the server) to spawn a customizable crate only on
 
 ```ruby
 waitUntil {!isNil ("PVDZ_plr_LoginRecord")};
-if (PVCDZ_plr_Login2 select 3) then
+if (PVCDZ_plr_Login2 select 4) then
 {
 
 _text = "Claim My Box";
