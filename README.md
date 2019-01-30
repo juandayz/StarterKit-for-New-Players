@@ -16,11 +16,9 @@ if (PVCDZ_plr_Login2 select 3) then
 _text = "Claim My Box";
 s_player_box = player addAction [format["%1",_text], "dayz_code\external\player_startkit.sqf"];
 };	
-
 ``
 -----
-``
-3-Open your custom variables.sqf (yes you need one) and paste :
+``3-Open your custom variables.sqf (yes you need one) and paste :
 s_player_box = -1;
 
-just where your others s_players_  actions are located.
+just where your others s_players_  actions are located.``
