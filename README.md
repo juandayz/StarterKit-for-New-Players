@@ -1,5 +1,7 @@
 # StarterKit-for-New-Players
 
+PLEASE DONATE: https://github.com/juandayz/StarterKit-for-New-Players/blob/master/DONATION.md
+
 ONLY RUN WITH ESSV3 mod
 
 
